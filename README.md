@@ -6,5 +6,5 @@ use mmcv in a normal way, so I had to rewrite the format of mmcv. God help, it s
 The original repository is in: https://github.com/open-mmlab/mmcv   
 
 ### Install
-cd mmcv_py35
+cd mmcv_py35  
 MMCV_WITH_OPS=1 pip install -e .
